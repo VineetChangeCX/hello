@@ -1,0 +1,15 @@
+{
+    "employees": [
+      { "name": "Crescent", "designation": "Software Engineer" },
+      { "name": "Aden", "designation": "Data Scientist" },
+      { "name": "Lily", "designation": "UX/UI Designer" },
+      { "name": "Ethan", "designation": "Full Stack Developer" },
+      { "name": "Emma", "designation": "Product Manager" },
+      { "name": "Oliver", "designation": "QA Engineer" },
+      { "name": "Sophia", "designation": "Frontend Developer" },
+      { "name": "Mason", "designation": "DevOps Engineer" },
+      { "name": "Ava", "designation": "Business Analyst" },
+      { "name": "Logan", "designation": "System Administrator" }
+    ]
+}
+  
